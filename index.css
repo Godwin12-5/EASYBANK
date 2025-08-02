@@ -1,0 +1,378 @@
+@media (max-width:800px){
+
+.bv{
+  width: 20%;
+  background-color: white;
+  border: none;
+}
+
+.container{
+  border: 2px solid;
+  border: none;
+  box-shadow: 10px 10px;
+  width: 78%;
+  margin-top: -46px;
+  margin-left: 60px;
+}
+
+.container h3{
+  margin-left: 168px;
+  font-size: 14px;
+  margin-top: -44px;
+}
+
+.container img{
+  margin-left: 34px;
+}
+
+.nbsa h2{
+  margin-top: 25px;
+  margin-left: 17px;
+  font-size: 12px;
+}
+
+
+.bvas{
+  border: 1px solid;
+  border: none;
+  margin-top: -23px;
+}
+
+.bvas p{
+  margin-left: 57px;
+  font-size: 12px;
+}
+
+.jage{
+  border: 1px solid grey;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: -60px;
+  background-color: white;
+  position: relative;
+  padding: 12px;
+}
+
+.jage h5{
+  font-size: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.jage h1{
+  font-size: 16px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.jage p{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.jage button{
+  margin-top: 10px;
+  margin-left: 12px;
+  width: 87%;
+  background-color: red;
+  padding: 5px;
+  border: none;
+  border-radius: 2px;
+  color: white;
+}
+
+.bvfe{
+  border: 1px solid;
+  width: 87%;
+  margin-top: 10px;
+  margin-left: 13px;
+}
+
+.bvfe a{
+   margin-left: 88px;
+   text-decoration: none;
+   color: blue;
+}
+
+.bvfsr{
+  border: 1px solid;
+  margin-top: 30px;
+  box-shadow: 10px 10px 10px 10px;
+  width: 87%;
+  padding: 20px;
+  margin-left: 18px;
+  border: none;
+}
+
+.bvfsr h6{
+  font-size: 8px;
+}
+
+.bvfsr p{
+  font-size: 12px;
+}
+
+.bvfsr h4{
+  font-size: 14px;
+}
+
+.nvcxs{
+  border: 1px solid;
+  margin-top: 32px;
+  border: none;
+  padding: 20px;
+  box-shadow: 10px 10px 10px 10px;
+  width: 87%;
+  margin-left: 18px;
+}
+
+.nvcxs h5{
+  font-size: 10px;
+}
+
+.nvcxs h1{
+  font-size: 14px;
+}
+
+.okjh{
+  border: 1px solid;
+  margin-top: 32px;
+  border: none;
+  padding: 20px;
+  box-shadow: 10px 10px 10px 10px;
+  width: 87%;
+  margin-left: 18px;
+}
+
+.okjh h5{
+  font-size: 10px;
+}
+
+.okjh h1{
+  font-size: 14px;
+}
+
+.mxa{
+  display: flex;
+  gap: 10px;
+  margin-top: 40px;
+  margin-right: 10px;
+}
+
+
+.kcda{
+  display: flex;
+  gap: 10px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.vwds{
+  display: flex;
+  gap: 10px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.class{
+  border: 1px solid;
+  width: 50%;
+  padding: 28px;
+  margin-left: 20px;
+}
+
+
+.class:hover{
+  width: 50%;
+  padding: 10px;
+  border: 2px solid blue;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  background-color: blue;
+}
+
+.class:hover:hover{
+  border-color: blueviolet;
+  box-shadow: inset 0 0 0 5px #007bff;
+}
+
+.class:hover h2{
+   color: white;
+   font-size: 18px;
+   transition:  color 0.3s ease-in-out;
+}
+
+.class:hover:hover h2{
+  color: #007bff;
+}
+
+.class a{
+  text-decoration: none;
+}
+
+.class h2{
+  font-size: 14px;
+  font-weight: bold;
+  color: blue;
+  margin-left: -10px;
+}
+
+.class h3{
+  font-size: 14px;
+  margin-top: 20px;
+  color: blue;
+}
+
+.class-2{
+  border: 1px solid;
+}
+
+.class-3{
+  border: 1px solid;
+}
+
+.class:hover h3{
+   color: white;
+   font-size: 18px;
+   transition:  color 0.3s ease-in-out;
+}
+
+.class:hover:hover h3{
+  color: #007bff;
+}
+
+.class-2{
+  border: 1px solid;
+  width: 50%;
+  padding: 28px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.class-2 h3{
+  font-size:14px;
+  color: blue;
+}
+
+.class-2:hover{
+  width: 50%;
+  padding: 10px;
+  border: 2px solid blue;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  background-color: blue;
+}
+
+
+.class-2:hover:hover{
+  border-color: blueviolet;
+  box-shadow: inset 0 0 0 5px #007bff;
+}
+
+.class-2:hover h3{
+   color: white;
+   font-size: 18px;
+   transition:  color 0.3s ease-in-out;
+}
+
+.class-2:hover:hover h3{
+  color: #007bff;
+}
+
+.class-2 a{
+  text-decoration: none;
+}
+
+.class-3{
+  border: 1px solid;
+  width: 50%;
+  padding: 28px;
+  margin-right: 10px;  
+}
+
+.class-3 img{
+  margin-left: 2px;
+  margin-top: -2px;
+}
+
+.class-3 h2{
+  font-size: 14px;
+  color: blue;
+  margin-top: 18px;
+}
+
+.class-3 a{
+  text-decoration: none;
+}
+
+.class-3:hover{
+  width: 50%;
+  padding: 10px;
+  border: 2px solid blue;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  background-color: blue;
+}
+
+
+.class-3:hover:hover{
+  border-color: blueviolet;
+  box-shadow: inset 0 0 0 5px #007bff;
+}
+
+.class-3:hover h2{
+   color: white;
+   font-size: 18px;
+   transition:  color 0.3s ease-in-out;
+}
+
+.class-3:hover:hover h2{
+  color: #007bff;
+}
+
+.mngr{
+  border: 1px solid;
+  border: none;
+  padding: 20px;
+  margin-top: 40px;
+  background-color: grey;
+}
+
+.mngr img{
+  margin-top: 40px;
+}
+
+.mngr h1{
+  margin-top: 20px;
+  color: blue;
+  font-size: large;
+}
+
+.mngr h6{
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.mngr p{
+  font-size: 12px;
+}
+
+.mngr button{
+  width: 87%;
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  box-shadow: 8px 10px;
+}
+
+.mngr a{
+  text-decoration: none;
+  color: white;
+}
+
+
+}
+
